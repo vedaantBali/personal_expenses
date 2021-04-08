@@ -17,4 +17,6 @@ Use an android virtual device or a real device to run the app.
 
 ![Date Picker](https://github.com/vedaantBali/personal_expenses/blob/master/Screenshot_20210408-094422.jpg)
 
-![Deleting Transactions](https://github.com/vedaantBali/personal_expenses/blob/master/21-04-08-09-43-18.mp4)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/37630833/113968311-7b65b200-9850-11eb-8a56-b56db3f6c379.gif)
+
