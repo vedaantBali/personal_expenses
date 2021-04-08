@@ -1,16 +1,20 @@
-# personal_expenses
+# Personal Expenses Tracker
 
-A new Flutter application.
+A Flutter application which allows you to log your daily expenses and view it in a list form, along with a bar chart type depiction which shows the weekly breakup of expenses in the past year.
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+Clone the repository into a directory of your choice. cd into that directory and open a terminal window there.
 
-A few resources to get you started if this is your first Flutter project:
+ ```
+ $ android-studio .
+ ```
+Use an android virtual device or a real device to run the app.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![App Page](https://github.com/vedaantBali/personal_expenses/blob/master/Screenshot_20210408-094119.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Transaction Page](https://github.com/vedaantBali/personal_expenses/blob/master/Screenshot_20210408-094412.jpg)
+
+![Date Picker](https://github.com/vedaantBali/personal_expenses/blob/master/Screenshot_20210408-094422.jpg)
+
+![Deleting Transactions](https://github.com/vedaantBali/personal_expenses/blob/master/21-04-08-09-43-18.mp4)
