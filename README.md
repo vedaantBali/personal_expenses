@@ -18,5 +18,7 @@ Use an android virtual device or a real device to run the app.
 ![Date Picker](https://github.com/vedaantBali/personal_expenses/blob/master/Screenshot_20210408-094422.jpg)
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/37630833/113968311-7b65b200-9850-11eb-8a56-b56db3f6c379.gif)
+
+![Project Name](https://user-images.githubusercontent.com/37630833/113969414-9afdda00-9852-11eb-910a-51b6899e0c67.gif)
+
 
